@@ -1,4 +1,4 @@
-# 📁 Models Folder
+# 📁 Models 
 
 This folder contains the trained CatBoost regression model used for 48-hour temperature forecasting.
 
