@@ -27,6 +27,19 @@ This project implements a real-time edge-AI system for forecasting weather using
 
 ---
 
+## 🛠️ Tools & Libraries
+
+- **Raspberry Pi 4B** – Edge device used for deployment
+- **Python 3.11** – Backend programming language
+- **CatBoost** – ML model for temperature regression forecasting
+- **FastAPI** – Lightweight REST API for model inference
+- **Node-RED v3.1.1** – Flow-based development tool for dataflow and dashboard
+- **InfluxDB 2.7** – Time-series database for storing environmental readings
+- **MQTT (EMQX Broker)** – Lightweight messaging protocol with TLS encryption
+- **OpenWeather API** – Source for public weather data
+
+---
+
 ## 🚀 Run the Prediction API (FastAPI)
 
 ```bash
