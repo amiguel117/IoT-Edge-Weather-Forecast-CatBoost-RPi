@@ -31,3 +31,6 @@ This project implements a real-time edge-AI system for forecasting weather using
 
 ```bash
 uvicorn app.predict:app --reload --port 8000
+
+GET http://localhost:8000/predict?hours_to_forecast=48
+
