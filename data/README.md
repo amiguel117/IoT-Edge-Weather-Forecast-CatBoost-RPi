@@ -1,4 +1,4 @@
-# 📁 Data Folder
+# 📁 Data 
 
 This folder contains sample weather data used during the model development and validation process.
 
