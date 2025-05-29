@@ -1,9 +1,3 @@
-
----
-
-### 📁 `report/README.md`
-
-```markdown
 # 📁 Report  
 
 This folder contains the final academic report submitted for assessment under the COMP8801 Research Methodology course at Unitec.
